@@ -1,24 +1,9 @@
 # app_tarefas
 
-## Project setup
-```
-npm install
-```
+Criado em aula de Vue JS;
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Detalhes
+Aplicação para cadastrar tarefas, guardadas localmente utilizando Vue JS.
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
